@@ -35,6 +35,7 @@ Before running the tests, make sure you have the following installed on your mac
    ```bash
    npm install playwright
 2. Run the tests using Playwright:
+   ```bash
    npx playwright test ui-automation/tests/addCartTest.spec.js
 ### UI Automation Test Details:
 This test automates the following steps:
